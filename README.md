@@ -1,4 +1,4 @@
-# Meryem Kacem's Portfolio
+# Quraan Portfolio
 
 Welcome to my portfolio! I'm passionate about data analytics, design, and creating impactful visual content. Here's a collection of my projects:
 
