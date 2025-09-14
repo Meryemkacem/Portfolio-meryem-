@@ -1,11 +1,4 @@
 # Quraan Portfolio
-
-Welcome to my portfolio! I'm passionate about data analytics, design, and creating impactful visual content. Here's a collection of my projects:
-
-## 🔍 Power BI Dashboards
-Interactive reports built using Power BI.
- [Quraan KPI.pdf](https://github.com/user-attachments/files/20458236/Quraan.KPI.pdf)
-
 ## 📊 Tableau Visualizations
 Storytelling with data using Tableau.
 - Quraan Dashboard
